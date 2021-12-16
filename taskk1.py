@@ -3,4 +3,4 @@ b = int(input("Enter the base of the triangle"))
 
 Area = 0.5*b*h
 
-print("The area is",Area,"squared units")
+print("The area is",Area,"squared")
